@@ -5,5 +5,7 @@ I am attaching both Unreal Engine full version and packeged one if you want to t
 Don't hasitate to ask any questions! I will gladly answer you.
 This course helped to learn basics how to make games (https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games)
 
-You can watch viedo of that game:
-https://user-images.githubusercontent.com/116755622/219866771-aae910f4-8cec-4cbd-836d-59b386879a2f.mp4
+
+https://user-images.githubusercontent.com/116755622/219866898-96f7a589-6c2d-452b-8f5d-3f23c373782a.mp4
+
+
